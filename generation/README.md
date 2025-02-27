@@ -1,0 +1,3 @@
+- run `get_tracks.py`, producing `tracks.json`
+- run `embedder.py tracks.json output/`
+- run `final.py tracks.json output/ final_output/`

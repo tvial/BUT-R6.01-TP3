@@ -1,0 +1,1419 @@
+song_id;artist;title;duration
+1;Raphael;Peut-être a-t-il rêvé;370
+2;Indochine;Like a monster;229
+3;W. A. Mozart;Concerto for Flute and Orchestra No. 2 in C, KV 314 - III. Allegro;259
+4;Indochine;Un Jour Dans Notre Vie;546
+5;W. A. Mozart;Sym No41 - KV 551 'Jupiter' in C major - I. Allegro Vivace;193
+6;Guns N' Roses;14 Years;600
+7;Serge Gainsbourg;Intoxicated man;210
+8;U2;Dirty Day;326
+9;Noir Désir;Aux Sombres Héros De L'Amer;363
+10;Guns N' Roses;Pretty Tied Up;499
+11;ZZTop;Got Me Under Pressure;572
+12;Jean-Michel Jarre;Calypso 1;590
+13;Etienne Daho;Des attractions désastre;372
+14;Patti Smith;Piss Factory (Track);285
+15;Toto;2 Hearts;429
+16;Thomas Fersen;Bijou;436
+17;Ricchi e Poveri;Mai dire mai;480
+18;Arcade Fire;I'm Sleeping In A Submarine;298
+19;Noir Désir;Song For JLP;363
+20;W. A. Mozart;Symphony No. 35 in D, K385, 'Haffner' - I. Allegro con spirito;336
+21;Led Zeppelin;Since I've Been Loving You;567
+22;Les Cowboys Fringants;Hannah;491
+23;Ramon Pipin's Odeurs;Toujours plus haut;537
+24;Sting & The Police;Every Breath You Take;124
+25;Pink Floyd;Shine On You Crazy Diamond (Parts 1-7);379
+26;Indochine;Le Peril Jaune;546
+27;Yann Tiersen;A Secret Place;309
+28;Bertrand Betsch;les vents contraires;280
+29;The Pogues;A Pistol For Paddy Garcia;424
+30;Daniel Darc;Les Champs-Elysées;598
+31;W. A. Mozart;Symphony No.38 - 1 - Adagio - Allegro;578
+32;Simon & Garfunkel;El Condor Pasa (If I Could);554
+33;Yann Tiersen;Dejà loin;256
+34;Daniel Darc;She's so untouchable;545
+35;Orff;The Court of Love - Stetit puella;233
+36;W. A. Mozart;Symphony No. 36 in C, K425, 'Linz' - III. Menuetto;157
+37;U2;Some Days Are Better Than Others;384
+38;Les Cowboys Fringants;8 secondes;213
+39;R.E.M;Fall On Me;419
+40;Tri Yann;Galvadeg En Tri Kant Mil Soudard;443
+41;R.E.M;Hope;128
+42;W. A. Mozart;Concerto for Flute, Harp and Orchestra in C, KV 229- III. Rondo - Allegro;450
+43;Indochine;Paradize;450
+44;Dmitri Chostakovitch;Jazz Suite No. 2 - VIII Finale;350
+45;Jean-Louis Aubert;Temps   nouveau - A l'eau;433
+46;Yann Tiersen;Kala;224
+47;Les Cowboys Fringants;Ti-cul;365
+48;Serge Gainsbourg;La Javanaise;449
+49;Indochine;Razzia;473
+50;Indochine;Le Péril Jaune [Ouverture];266
+51;Blondie;Under The Gun;190
+52;The Blues Brothers;Who's making love;497
+53;Ramon Pipin's Odeurs;Defecation blues;319
+54;Jean Leloup;Jean Leloup - Le Dome;315
+55;Guns N' Roses;Estranged;222
+56;Queen;Seven Seas Of Rhye;325
+57;Jethro Tull;The Whistler;298
+58;Noir Désir;666.667 Club;132
+59;The Beatles;Lucy In The Sky With Diamonds;516
+60;Angelo branduardi;Le don du cerf;439
+61;Thomas Fersen;Ne pleure plus;484
+62;Jethro Tull;A Song For Jeffrey;524
+63;Mano Negra;Darling Darling;330
+64;Sting;Russians;396
+65;Orff;The Court of Love - Veni, veni venias;200
+66;Tri Yann;Sur La Fosse Au Boulot;452
+67;Ramon Pipin's Odeurs;Dominique;221
+68;Midnight Oil;Gunbarrel highway;558
+69;Simon & Garfunkel;At The Zoo;341
+70;Pink Floyd;See Emily Smile;210
+71;Obsidienne;Hellas mon coeur;481
+72;Thomas Fersen;Ma Douceur;456
+73;Jean Leloup;Jean Leloup - I Lost My Baby;303
+74;Simon & Garfunkel;America;230
+75;Blondie;Double Take;493
+76;W. A. Mozart;Sérénade in D maj KV320, 1. Adagio maestoso--Allegro con spirito;213
+77;Noir Désir;Prayer For A Wanker;417
+78;Etienne Daho;Winter blue (feat. Laurie Mayer);522
+79;Aston Villa;Wash My Soul feat. Hawksley Workman;258
+80;Daniel Darc;Ce qu'il y a dans tes yeux;598
+81;Obsidienne;Bevons ma commère;442
+82;Led Zeppelin;Friends;419
+83;U2;Stay (Faraway, So Close!);417
+84;R.E.M;Underneath The Bunker;459
+85;U2;The Refugee;215
+86;Jean Leloup;Jean Leloup - L'escargot;411
+87;Thomas Fersen;Un temps de chien;397
+88;Thomas Fersen;Les ronds de carotte;584
+89;Etienne Daho;Where's my monkey-;377
+90;Obsidienne;Estampie;498
+91;Guns N' Roses;Knockin' On Heaven's Door;305
+92;Les Cowboys Fringants;Lettre à Lévesque;555
+93;Jethro Tull;Thick As A Brick;355
+94;Cat Stevens;Miles From Nowhere;170
+95;U2;Miami;278
+96;Pink Floyd;Money;545
+97;Patti Smith;1959;226
+98;Jean-Michel Jarre;Equinoxe 4;484
+99;Blankass;Léon;579
+100;Tri Yann;Dérobée De Guingamp;410
+101;Etienne Daho;Le grand sommeil;533
+102;W. A. Mozart;Concerto for Flute and Orchestra No. 1 in G, KV 313 - II. Adagio Ma Non Troppo;403
+103;U2;October;174
+104;The Beatles;Getting Better;507
+105;Trust;Le mitard;161
+106;Indochine;3eme Sexe;269
+107;Lalo, Edouard (1823-1892);Menute, Allegretto;560
+108;Tri Yann;Les Filles Des Forges (Pile-Menu);314
+109;Fréderic Chopin;Prélude No. 8  in F sharp minor, op. 28;489
+110;W. A. Mozart;Sérénade in D maj KV239, 2. Menuetto;598
+111;Yann Tiersen;La vie quotidienne;539
+112;Thomas Fersen;Ma rêveuse;188
+113;Tri Yann;Guerre, Guerre, Vente, Vent;322
+114;Dmitri Chostakovitch;Piano Concerto No. 1 in C minor, op. 35 - II Lento;513
+115;Etienne Daho;Quatre hivers;357
+116;Etienne Daho;Paris ailleurs;152
+117;Patti Smith;Glitter In Their Eyes;127
+118;Blondie;Happy Dog;488
+119;Mano Negra;Rock Island Line;200
+120;Toto;The Turning Point;307
+121;Pink Floyd;Bike;357
+122;Ramon Pipin's Odeurs;Elle cache-cache son jeu;590
+123;Indochine;Dunkerque;165
+124;Noir Désir;À Ton Étoile;489
+125;Aubert (Jean-Louis);Là;170
+126;Thomas Fersen;Moi Qui Me Croyais Un Saint;235
+127;Obsidienne;Haricot de mouton;202
+128;Les Cowboys Fringants;Épilogue (Si tu penses un peu comme ça);521
+129;The Beatles;Being For The Benefit Of Mr. Kite!;287
+130;R.E.M;Find the River;478
+131;Beethoven;Op. 57 - Sonata No. 23 - Appassionata - 1 Allegro assai;326
+132;R.E.M;Me In Honey;362
+133;Bruce Springsteen;Cadillac Ranch;563
+134;W. A. Mozart;Sérénade in D maj KV320, 2. Menuetto;146
+135;W. A. Mozart;Sérénade in D maj KV239, 3. Rondo (Allegretto);289
+136;Patti Smith;Notes To The Future (Live);577
+137;Radiohead;Let Down;301
+138;Indochine;Pink Water;370
+139;R.E.M;Green Grow The Rushes;276
+140;Ramon Pipin's Odeurs;Reine d'un jour;517
+141;Dmitri Chostakovitch;Jazz Suite No. 2 - VII Dance 2;220
+142;R.E.M;Drive;311
+143;Jean Leloup;Jean Leloup - Edgar;522
+144;Sting;Why Should I Cry for You-;349
+145;Bruce Springsteen;The Ties That Bind;428
+146;Ricchi e Poveri;Parla col cuore;502
+147;Cat Stevens;Longer Boats;440
+148;R.E.M;Tongue;201
+149;U2;New Year's Day;436
+150;Blondie;Nothing Is Real But The Girl;309
+151;Obsidienne;La dernière nuitcée d'avril;378
+152;Serge Gainsbourg;La Chanson De Prevert;234
+153;Tri Yann;Kiss The Children For Me, Mary;201
+154;Ramon Pipin's Odeurs;Johnny pas grand'chose;455
+155;U2;Like a Song;261
+156;Beethoven;Op. 27 - Sonata No. 14 - Moonlight - 2 Allegretto;242
+157;AC-DC;Goodbye & good riddance to bad luck;456
+158;R.E.M;Just A Touch;459
+159;Bérurier Noir;On a Faim;255
+160;Blankass;La colère des Dieux;478
+161;Serge Gainsbourg;Comic Strip (ft. Brigitte Bardot);552
+162;ZZTop;Doubleback;311
+163;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 23 EN LA MAJEUR K 488 - Allegro assai;271
+164;Daniel Darc;Le seul garcon sur terre;254
+165;Radiohead;Blow Out;289
+166;Indochine;J'ai demandé à la Lune;559
+167;Orff;On the Green - Floret silva nobilis;263
+168;W. A. Mozart;Concerto for 3 Pianos in F - major, K. 242- Allegro;311
+169;Obsidienne;Belle Yolanz;396
+170;The Pogues;Jesse James;252
+171;R.E.M;Old Man Kensey;316
+172;Aston Villa;L'Occident;310
+173;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 23 EN LA MAJEUR K 488 - Marche en re majeur K.251;255
+174;Cat Stevens;Father And Son;582
+175;Thomas Fersen;Hugo, à la bougie;448
+176;Indochine;Les portes du soir;284
+177;Jethro Tull;Living In The Past;206
+178;U2;Mofo;597
+179;Aubert (Jean-Louis);Voyager en soi-même;360
+180;Tri Yann;Kerfank 1870;239
+181;Serge Gainsbourg;Le Poinçonneur Des Lilas;535
+182;Raphael;Schengen;478
+183;Sting;It's Probably Me;431
+184;The Beatles;She's Leaving Home;203
+185;Dmitri Chostakovitch;Jazz Suite No. 2 - III Dance 1;361
+186;Mano Negra;Peligro;226
+187;Indochine;Soudain l'éte dernier, je suppose;186
+188;U2;The Playboy Mansion;596
+189;The Pogues;The Band Played Waltzing Matilda;581
+190;R.E.M;Walk Unafraid;409
+191;Jean Leloup;Cookie;575
+192;Raphael;Funambule;487
+193;Jean Leloup;Jean Leloup - Nathalie;359
+194;Indochine;Salombo;268
+195;W. A. Mozart;Symphony No.39 - 4 - Allegro;121
+196;Jethro Tull;Minstrel In The Gallery (Edited Version);434
+197;R.E.M;The Flowers Of Guatemala;120
+198;R.E.M;Everybody Hurts;194
+199;Indochine;Canary Bay;570
+200;Jean-Michel Jarre;Globe Trotter;299
+201;Mano Negra;Ronde De Nuit;326
+202;Noir Désir;L'Homme Pressé;483
+203;Pink Floyd;High Hopes;159
+204;Jean Leloup;Satyre;547
+205;Noir Désir;Un Jour En France;448
+206;Bruce Springsteen;Crush On You;317
+207;The Beatles;Sgt. Pepper's Lonely Hearts Club Band (Reprise);323
+208;Tri Yann;Song For Ye, Jacobites;158
+209;Serge Gainsbourg;Ballade De Melody Nelson (ft. Jane Birkin);245
+210;R.E.M;King Of Comedy;264
+211;Indochine;Miss Paramount;307
+212;AC-DC;Moneytalks;349
+213;Arcade Fire;Headlights Look Like Diamonds;553
+214;R.E.M;Shiny Happy People;541
+215;Thomas Fersen;Où Trouver Des Fleurs Un Lundi Soir Après Minuit-;354
+216;Jean Leloup;Jean Leloup - Johnny Go;527
+217;Indochine;Electrastar;378
+218;Bérurier Noir;S.O.S;434
+219;Cat Stevens;On The Road To Find Out;458
+220;Noir Désir;Septembre, En Attendant;141
+221;Radiohead;Karma Police;157
+222;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 6 EN RE MAJEUR K 537 -DU COURONNEMENT- - Allegro;520
+223;The Blues Brothers;Soul finger (including 'Funky Broadway');418
+224;R.E.M;Ignoreland;188
+225;Jean Leloup;Jean Leloup - L'amour Est Sans Pitié;416
+226;Orff;Fortune, Empress of the World - Fortune plango vulnera;184
+227;The Pogues;I'm A Man You Don't Meet Every Day;563
+228;Pink Floyd;The Happiest Day Of Our Lives;521
+229;Jean Leloup;Jean Leloup - L'antiquaire;429
+230;Sting & The Police;When We Dance;505
+231;Yann Tiersen;La chambre;344
+232;Jean Leloup;Jean Leloup - Sang D'encre;292
+233;Sting & The Police;Let Your Soul Be Your Pilot;516
+234;Bérurier Noir;Casse-tête Chinois (suivi de Joli Printemps);347
+235;Thomas Fersen;Lofotens;158
+236;Yann Tiersen;La Jetée;141
+237;Serge Gainsbourg;Sous Le Soleil Exactement;304
+238;Queen;I'm Going Slightly Mad;300
+239;Ramon Pipin's Odeurs;Douce crème;375
+240;Sting & The Police;Every Little Thing She Does Is Magic;448
+241;Obsidienne;« Fatrasie »;130
+242;Thomas Fersen;Cosmos;155
+243;Beethoven;Pathétique - Adagio cantabile;542
+244;Jean Leloup;Fourmis;529
+245;Patti Smith;Come Back Little Sheba (Track);207
+246;Jean Leloup;La Pluie;145
+247;Etienne Daho;Des heures hindoues;257
+248;Orff;On the Green - Dance;296
+249;Queen;Radio Ga Ga;123
+250;Orff;In the Tavern - In taberna quando sumus;483
+251;Aubert (Jean-Louis);Alter ego;227
+252;The Pogues;The Gentleman Soldier;182
+253;Ramon Pipin's Odeurs;Chèque Baby chèque;291
+254;Jean Leloup;La Chambre;127
+255;ZZTop;Thug;428
+256;Toto;Don't Chain My Heart;440
+257;Trust;L'élite;598
+258;Radiohead;Lucky;504
+259;Pink Floyd;Learning To Fly;453
+260;Daniel Darc;Tournez tournez;273
+261;Saint Etienne Daho;X AMOURS;169
+262;Bruce Springsteen;The River;467
+263;U2;Mothers Of The Disappeared;587
+264;Sting;Englishman in New York;139
+265;R.E.M;Airportman;402
+266;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 23 EN LA MAJEUR K 488 -  ADAGIO;263
+267;Ramon Pipin's Odeurs;Le cri du kangourou;553
+268;The Pogues;Planxty Noel Hill;570
+269;Trust;Monsieur Comédie;195
+270;Indochine;Le manoir;564
+271;Etienne Daho;Laisse tomber les jaloux;493
+272;Dmitri Chostakovitch;Piano Concerto No. 1 in C minor, op. 35 - I Allegretto;277
+273;Sting & The Police;Roxanne;429
+274;Beethoven;Appassionata - Andante con moto;194
+275;Obsidienne;Nymphes des bois Déesse des fontaines;570
+276;U2;In God's Country;456
+277;Blondie;Night Wind Sent;335
+278;Etienne Daho;Comme un igloo;142
+279;Indochine;Les Tzars;303
+280;Guns N' Roses;My World;167
+281;Yann Tiersen;La Boulange;466
+282;Tri Yann;Le Renard;559
+283;W. A. Mozart;Concerto for Piano in D minor, K466- Rondo - Allegro assai;273
+284;Angelo branduardi;Bal en fa diese mineur;360
+285;Sting & The Police;If You Love Somebody Set Them Free;380
+286;Indochine;Tonkin;221
+287;Fréderic Chopin;Prélude No. 13  in F sharp major, op. 28;279
+288;Thomas Fersen;Hugo, chanson du cyclone;372
+289;Tri Yann;Le Mariage Insolite De Marie La Bretonne;556
+290;Lalo, Edouard (1823-1892);Guitare Op.28 inB Minor, Allegetto;174
+291;Jean Leloup;Jean Leloup - Barcelone;285
+292;Dmitri Chostakovitch;Jazz Suite No. 2 - I March;451
+293;Arcade Fire;No Cars Go;129
+294;R.E.M;The Apologist;161
+295;Orff;Blanchefleur and Helen - Ave, formosissima;147
+296;Jean Leloup;Jean Leloup - 1990;336
+297;Bruce Springsteen;Point Blank;275
+298;W. A. Mozart;Piano Sonata in F major K332 - Allegro Assai;228
+299;Lalo, Edouard (1823-1892);Lalo Op.18, Ballade, Andantino quasi allegretto;537
+300;Queen;Keep Yourself Alive;449
+301;Noir Désir;Ernestine;270
+302;Aston Villa;Strange;461
+303;R.E.M;Man on the Moon;310
+304;Beethoven;Op. 81a - Sonata No. 26 - Les Adieux - 1 Adagio - Allegro;256
+305;Jean-Louis Aubert;La question;501
+306;W. A. Mozart;Piano Sonata in B flat major K333 - Allegro;552
+307;U2;11 O'Clock Tick Tock;318
+308;Dmitri Chostakovitch;Piano Concerto No. 1 in C minor, op. 35 - III Moderato;221
+309;AC-DC;Got you by the balls;599
+310;Ramon Pipin's Odeurs;Dernière lettre;478
+311;Blankass;Le garagiste;442
+312;W. A. Mozart;Sym No40 - KV 550 in G minor - II. Andante;414
+313;Thomas Fersen;Tout, tout, tout et plus rien;541
+314;Ramon Pipin's Odeurs;On chante en play-back;258
+315;W. A. Mozart;Symphony No. 36 in C, K425, 'Linz' - II. Poco adagio;134
+316;Les Cowboys Fringants;Le pharmacien_Jam des Aristocrates;143
+317;Les Cowboys Fringants;En attendant (Le reel de nos gens);437
+318;The Beatles;Fixing A Hole;237
+319;Tri Yann;Chanson A Boire;291
+320;Jean Leloup;Jean Leloup - Vampire;362
+321;Led Zeppelin;Hats Off To (Roy) Harper;599
+322;The Blues Brothers;From the bottom;572
+323;Sting;This Cowboy Song;344
+324;Yann Tiersen;Comptine d'ete n°1;406
+325;Dionysos;She is the Liquid Princess;270
+326;Jean-Louis Aubert;Cascade;274
+327;Obsidienne;Natus est-Igitur;325
+328;Bertrand Betsch;la chaleur humaine;494
+329;Simon & Garfunkel;The Sound Of Silence;599
+330;Bruce Springsteen;Two Hearts;320
+331;Simon & Garfunkel;Mrs. Robinson;253
+332;Etienne Daho;Et si je m'en vais avant toi;233
+333;Bertrand Betsch;toute ma vie dans tes bras;149
+334;R.E.M;You're In The Air;545
+335;Aubert (Jean-Louis);Sur la route (en duo avec Raphaël);331
+336;Patti Smith;Ghost Dance;466
+337;Mano Negra;Guayaquil City;492
+338;Thomas Fersen;La Blatte;179
+339;Noir Désir;Apprends À Dormir;447
+340;Toto;Waiting For Your Love;582
+341;Queen;Body Language;274
+342;Guns N' Roses;So Fine;537
+343;Patti Smith;Spell (Live);372
+344;Bruce Springsteen;Hungry Heart;557
+345;Yann Tiersen;Sur le fil;595
+346;R.E.M;Swan Swan H;460
+347;U2;Bullet The Blue Sky;463
+348;Daniel Darc;Je suis déjà parti;588
+349;Sting & The Police;Don't Stand So Close To Me;497
+350;Les Cowboys Fringants;La manifestation;408
+351;Trust;Antisocial - (live);208
+352;Jethro Tull;Bourée;505
+353;Obsidienne;Ce moys de may soyons lies et joyeux;137
+354;Cat Stevens;Where Do The Children Play;463
+355;Pink Floyd;The Great Gig In The Sky;361
+356;Orff;The Court of Love - Dies, nox et omnia;463
+357;R.E.M;You;368
+358;Dmitri Chostakovitch;Jazz Suite No. 2 - V Little Polka;479
+359;Bérurier Noir;Pavillon 36;448
+360;Queen;I Want To Break Free;454
+361;Serge Gainsbourg;69 Annee erotique (ft. Jane Birkin);133
+362;Obsidienne;Bien faire hypocras;163
+363;Jacques Brel;Jojo;522
+364;U2;I Will Follow;316
+365;Obsidienne;Hec est clara dies;319
+366;R.E.M;I Don't Sleep, I Dream;268
+367;Dmitri Chostakovitch;Tahiti Trot (Tea for Two);334
+368;Thomas Fersen;Zaza;267
+369;Bruce Springsteen;Ramrod;174
+370;Arcade Fire;The Woodlands National Anthem;387
+371;Iron Maiden;The Number Of The Beast;371
+372;The Beatles;A Day In The Life;390
+373;Bertrand Betsch;la fin des colonies;164
+374;Serge Gainsbourg;New York USA;396
+375;R.E.M;These Days;262
+376;Dionysos;Surfin frog;417
+377;W. A. Mozart;Sérénade in D maj KV239, 1. Marcia (Maestoso);351
+378;Guns N' Roses;Get In The Ring;451
+379;Noir Désir;Les Écorchés;424
+380;Les Cowboys Fringants;Symphonie pour Caza;458
+381;Yann Tiersen;Les Retrouvailles;241
+382;Simon & Garfunkel;A Hazy Shade Of Winter;179
+383;Mano Negra;Patchanka;128
+384;W. A. Mozart;Piano Sonata in C minor K457 - Allegro Assai;529
+385;Beethoven;Sonate au clair de lune - Allegretto;330
+386;W. A. Mozart;Divertimento in D maj KV136, 1.Allegro;270
+387;Beethoven;Op. 81a - Sonata No. 26 - Les Adieux - 3 Vivacissimamente;129
+388;Yann Tiersen;Comptine d'ete n°2;324
+389;U2;Do You Feel Loved;472
+390;R.E.M;Maps And Legends;400
+391;Dionysos;Coffin song;367
+392;Indochine;Petit Jésus;449
+393;Les Cowboys Fringants;Joyeux calvaire!;415
+394;Ramon Pipin's Odeurs;Final;449
+395;Thomas Fersen;L'histoire d'une heure;558
+396;Noir Désir;Joey I;476
+397;Sting & The Police;Russians;239
+398;U2;Scarlet;372
+399;Indochine;Drugstar;574
+400;R.E.M;I Believe;246
+401;Jean Leloup;Voyager;201
+402;Patti Smith;Frederick;587
+403;R.E.M;Belong;453
+404;Orff;The Court of Love - Circa mea pectora;387
+405;R.E.M;Losing My Religion;270
+406;Yann Tiersen;Les bras de mer;499
+407;U2;The Electric Co.;323
+408;Pink Floyd;Another Brick In The Wall (Part 2);566
+409;ZZTop;Give It Up;319
+410;Yann Tiersen;Priere n°2;256
+411;Yann Tiersen;Comptine d'ete n°3;154
+412;Fréderic Chopin;Prélude No. 3  in G major, op. 28;599
+413;Blondie;Dig Up The Conjo;538
+414;Pink Floyd;Set The Controls For The Heart Of The Sun;266
+415;Jean Leloup;Jean Leloup - Fashion Victim;220
+416;U2;Two Hearts Beat as One;368
+417;U2;Zooropa;403
+418;The Pogues;Billy's Bones;424
+419;Pink Floyd;Sorrow;427
+420;Sting;If I Ever Lose My Faith in You;539
+421;Dionysos;Coiffeur d'oiseaux;440
+422;Orff;Spring - Omnia Sol temperat;175
+423;Etienne Daho;Un homme à la mer;576
+424;Jethro Tull;The Witch's Promise;232
+425;Toto;I Will Remember;133
+426;ZZTop;I Need You Tonight;410
+427;Simon & Garfunkel;I Am A Rock;544
+428;Thomas Fersen;Je Suis Dev'nue La Bonne;141
+429;ZZTop;If I Could Only Flag Her Down;439
+430;Mano Negra;Soledad;551
+431;The Beatles;When I'm Sixty-Four;538
+432;Aubert (Jean-Louis);Commun accord;434
+433;Jethro Tull;Locomotive Breath;212
+434;Aston Villa;Prière;362
+435;Jacques Brel;Vieillir;251
+436;Patti Smith;Because The Night;327
+437;Jethro Tull;Steel Monkey;470
+438;Indochine;Comateen I;293
+439;The Pogues;The Old Main Drag;255
+440;Sting & The Police;Fragile;333
+441;The Blues Brothers;Sweet Home Chicago;339
+442;Jean-Michel Jarre;Oxygene 4;551
+443;Tri Yann;Complainte Gallaise;588
+444;Blankass;Celui que j'aime;291
+445;R.E.M;Lotus;425
+446;Bruce Springsteen;Stolen Car;472
+447;Angelo branduardi;La lune;596
+448;U2;Gloria;216
+449;R.E.M;Star 69;590
+450;The Beatles;Good Morning Good Morning;543
+451;Tri Yann;Au Pied D'Un Rosier (Laride);328
+452;Queen;We Will Rock You;519
+453;ZZTop;Gimme All Your Lovin;550
+454;Dionysos;Song for Jedi;438
+455;AC-DC;If you dare;402
+456;Beethoven;Op. 81a - Sonata No. 26 - Les Adieux - 2 Andante expressivo;586
+457;Mano Negra;Salga La Luna;168
+458;Thomas Fersen;Ces bouches à nourrir;341
+459;Fréderic Chopin;Prélude No. 1 in C major, op. 28;281
+460;R.E.M;Bandwagon;230
+461;Thomas Fersen;La chapelle de la joie;263
+462;Cat Stevens;Tea For The Tillerman;323
+463;W. A. Mozart;Concerto for Flute and Orchestra No. 2 in C, KV 314 - I. Allegro Aperto;525
+464;R.E.M;Monty Got a Raw Deal;220
+465;U2;Drowning Man;369
+466;Bertrand Betsch;ô les beaux jours;468
+467;W. A. Mozart;Concerto for 2 Pianos in E flat major, K365- Rondeaux - Allegro;395
+468;Bruce Springsteen;Out In The Street;599
+469;Thomas Fersen;La baston;213
+470;Thomas Fersen;Maudie;524
+471;Serge Gainsbourg;Initials B.B.;277
+472;Patti Smith;Birdland (Live);457
+473;Indochine;L'Aventurier;435
+474;Yann Tiersen;La rupture;475
+475;W. A. Mozart;Concerto for 3 Pianos in F - major, K. 242- Rondeau- Tempo di menuetto;375
+476;Iron Maiden;Running Free;481
+477;Arcade Fire;Old Flame;457
+478;The Pogues;Wild Cats Of Kilkenny;575
+479;Serge Gainsbourg;L'Eau à La Bouche;203
+480;Angelo branduardi;La demoiselle;328
+481;Jean-Michel Jarre;Eldorado;180
+482;Yann Tiersen;J'y suis jamais alle;424
+483;W. A. Mozart;Piano Sonata in B flat major K333 - Allegretto grazioso;335
+484;Jean-Michel Jarre;Equinoxe 5;159
+485;Indochine;Le baiser;256
+486;U2;Seconds;488
+487;R.E.M;Can't Get There From Here;436
+488;U2;I Fall Down;193
+489;Yann Tiersen;A Ceux Qui Sont Malades Par Mer Calme;388
+490;Angelo branduardi;Le seigneur des baux;142
+491;Beethoven;Op. 57 - Sonata No. 23 - Appassionata - 3 Allegro, ma non troppo;528
+492;Jacques Brel;Voir un ami pleurer;335
+493;Radiohead;Electioneering;370
+494;Les Cowboys Fringants;Ma belle Sophie;551
+495;U2;The Wanderer;516
+496;Ramon Pipin's Odeurs;I want to hold your hand;489
+497;The Beatles;Sgt. Pepper's Lonely Hearts Club Band;577
+498;Radiohead;Prove Yourself;221
+499;Fréderic Chopin;Prélude No. 2  in A minor, op. 28;314
+500;Tri Yann;Le Temps Du Jour De L'An;352
+501;Bertrand Betsch;romance;393
+502;Jean-Michel Jarre;Ethnicolor 1;449
+503;Patti Smith;Beneath The Southern Cross;458
+504;W. A. Mozart;Symphony No. 35 in D, K385, 'Haffner'- IV. Finale - presto;242
+505;Jean Leloup;Les Filles A Canon;186
+506;Beethoven;Sonate au clair de lune - Presto agitato;386
+507;ZZTop;Tell It;269
+508;Dmitri Chostakovitch;Jazz Suite No. 1 - I Waltz;211
+509;Les Cowboys Fringants;Si la vie vous intéresse;273
+510;Patti Smith;Summer Cannibals;498
+511;The Blues Brothers;I ain't got you;459
+512;Etienne Daho;Double zéro et l'infini;444
+513;Noir Désir;The Wound;557
+514;Bérurier Noir;Mineurs en Danger;598
+515;Daniel Darc;Joyeux non-anniversaire;121
+516;Sting;Fragilidad;253
+517;U2;If God Will Send His Angels;227
+518;Dionysos;Déguisé en pas moi;518
+519;Etienne Daho;Poppy Gene Tierney;487
+520;Pink Floyd;Hey You;259
+521;W. A. Mozart;Sérénade in D maj KV320, 7. Finale- Presto;513
+522;W. A. Mozart;Concerto for Piano in D minor, K466 - Allegro;133
+523;Jean-Louis Aubert;Allez;250
+524;Blankass;Tes mauvais jours;328
+525;Ramon Pipin's Odeurs;Toujours plus haut;343
+526;Trust;Rock'n'Roll Star;180
+527;Les Cowboys Fringants;Marcel Galarneau;249
+528;Jethro Tull;Broadsword;144
+529;Indochine;Dark;288
+530;Indochine;Tes Yeux Noirs;252
+531;Jean Leloup;Jean Leloup - Décadence;577
+532;Led Zeppelin;Out On The Tiles;490
+533;Midnight Oil;Sell my soul;151
+534;Fréderic Chopin;Prélude No. 11  in B major, op. 28;297
+535;Angelo branduardi;Sous les tilleul;197
+536;Indochine;Des fleurs pour Salinger;371
+537;R.E.M;At My Most Beautiful;421
+538;Indochine;Talulla;174
+539;Tri Yann;Les Prisons De Nantes;327
+540;Mano Negra;Mad Man's Dead;396
+541;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 6 EN RE MAJEUR K 537 -DU COURONNEMENT- - Allegro;384
+542;Ramon Pipin's Odeurs;Ma chanson est malade;350
+543;Serge Gainsbourg;Bonnie And Clyde (ft. Brigitte Bardot);156
+544;Fréderic Chopin;Prélude No. 20  in C minor, op. 28;187
+545;R.E.M;New Orleans Instrumental No 1;525
+546;Les Cowboys Fringants;En attendant;351
+547;ZZTop;Decision Or Collision;159
+548;Indochine;Trois Nuits Par Semaine;548
+549;Patti Smith;People Have The Power;204
+550;Tri Yann;La Ville Que J'Ai Tant Aimée;237
+551;R.E.M;Diminished;521
+552;Tri Yann;Gwerz Jorj Courtois;354
+553;Tri Yann;Déjà Mal Marié;398
+554;Les Cowboys Fringants;L'hiver approche;513
+555;Indochine;Un singe en hiver;243
+556;Aubert (Jean-Louis);Changer d'avis;216
+557;Blankass;Maria;323
+558;Trust;Idéal;120
+559;Ramon Pipin's Odeurs;Je suis mou;220
+560;Simon & Garfunkel;Bookends Theme;144
+561;Yann Tiersen;Naomi;483
+562;Thomas Fersen;Pégase;347
+563;The Blues Brothers;Riot in cell block number nine;194
+564;Orff;On the Green - Were diu werit alle min;475
+565;R.E.M;Life And How To Live It;251
+566;Thomas Fersen;Mon pays;598
+567;Patti Smith;Dancing Barefoot;478
+568;The Blues Brothers;Jailhouse Rock;447
+569;Aubert (Jean-Louis);Alta gracia;427
+570;R.E.M;Let Me In;439
+571;Orff;In the Tavern - Ego sum abbas;259
+572;Patti Smith;Free Money;516
+573;R.E.M;Auctioneer (Another Engine);261
+574;Obsidienne;M'erme je n'ay point nom Johanne;140
+575;W. A. Mozart;Symphony No.39 - 2 - Andante Con Moto;206
+576;The Blues Brothers;Perry Mason theme;527
+577;Indochine;Le Baiser;132
+578;Yann Tiersen;Mouvement introductif;180
+579;Orff;Fortune, Empress of the World - O Fortuna;430
+580;Ricchi e Poveri;La prima cosa bella;514
+581;Serge Gainsbourg;Docteur Jekyll Et Monsieur Hyde;144
+582;Les Cowboys Fringants;Hannah;297
+583;Blondie;The Dream's Lost On Me;485
+584;Jean-Michel Jarre;Chants Magnetiques 2;565
+585;R.E.M;Half A World Away;579
+586;Radiohead;Ripcord;261
+587;Les Cowboys Fringants;Ma belle Sophie;546
+588;Sting & The Police;Fields Of Gold;548
+589;Patti Smith;Ain't It Strange;166
+590;Thomas Fersen;Je t'attendais;153
+591;Iron Maiden;The Trooper;259
+592;Yann Tiersen;7-Pm;384
+593;Yann Tiersen;Le quartier;583
+594;Obsidienne;Le grand desir (Polyphonie de J Mouton);360
+595;Pink Floyd;Keep Talking;306
+596;AC-DC;Mistress for Christmas;418
+597;R.E.M;The Sidewinder Sleeps Tonite;546
+598;Obsidienne;Par droit je puis bien complaindre et gemir;531
+599;Sting & The Police;De Do Do Do, De Da Da Da;327
+600;Orff;The Court of Love - Tempus est locundum;390
+601;Orff;Spring - Ecce gratum;424
+602;Tri Yann;Les Filles De Redon;343
+603;Noir Désir;Joey II;130
+604;Iron Maiden;Intro- Churchill's Speech;208
+605;W. A. Mozart;Sérénade in D maj KV320, 6. Menuetto;407
+606;Tri Yann;La Découverte Ou L'Ignorance;440
+607;Bruce Springsteen;Drive All Night;254
+608;Indochine;Pavillon Rouge;180
+609;Bérurier Noir;Sur les Toits (suivi de Quartier Général des Rebelles du Hash);507
+610;Noir Désir;Sweet Mary;343
+611;Midnight Oil;Put down that weapon;157
+612;Ramon Pipin's Odeurs;Ode au printemps;531
+613;R.E.M;Falls To Climb;274
+614;Thomas Fersen;Pont Mirabeau;409
+615;Jean Leloup;Je Joue De La Guitare;130
+616;Jethro Tull;A New Day Yesterday;284
+617;Ricchi e Poveri;Sarà perche ti amo;399
+618;U2;Lemon;342
+619;U2;-40-;317
+620;Fréderic Chopin;Prélude No. 5  in D major, op. 28;565
+621;Queen;Stone Cold Crazy;422
+622;Iron Maiden;2 Minutes To Midnight;382
+623;ZZTop;Dirty Dog;192
+624;Bérurier Noir;Tzigane, Tzigane;447
+625;Patti Smith;Distant Fingers (Demo);262
+626;Daniel Darc;Aimer à nouveau;382
+627;Les Cowboys Fringants;Ces temps-ci;429
+628;Jacques Brel;Le lion;596
+629;Indochine;Des Fleurs Pour Salinger;120
+630;Yann Tiersen;La Veillée;421
+631;Yann Tiersen;C'etait ici;269
+632;Jean-Louis Aubert;La bonne  toile;393
+633;Iron Maiden;Revelations;367
+634;Thomas Fersen;Dans les transports;553
+635;Jean Leloup;Jean Leloup - Faire Des Enfants;182
+636;The Beatles;Within You Without You;429
+637;Indochine;L'Aventurier;197
+638;Obsidienne;Hellas, ma dame que je désire tant (Polyphonies de R Picazos);232
+639;Lalo, Edouard (1823-1892);Arlecchino. Morceau caracteristique in G Major, Allegretto;430
+640;Indochine;L'Opportuniste;158
+641;U2;Red Hill Mining Town;166
+642;R.E.M;Bang And Blame;194
+643;Les Cowboys Fringants;Les étoiles filantes;244
+644;Daniel Darc;Aussi belle qu'une balle;459
+645;U2;Wake Up Dead Man;334
+646;Bruce Springsteen;Wreck On The Highway;441
+647;Bertrand Betsch;main dans la main;228
+648;Cat Stevens;Hard Headed Woman;360
+649;Trust;Par compromission;500
+650;Midnight Oil;Whoah;579
+651;Tri Yann;La Vierge A La Fontaine;528
+652;Midnight Oil;Sometimes;240
+653;Trust;Répression;310
+654;Noir Désir;Les Persiennes;265
+655;Indochine;Ceremonia;212
+656;Indochine;More...;548
+657;Saint Etienne Daho;JUNGLE PULSE;160
+658;W. A. Mozart;Piano Sonata in F major K332 - Allegro;258
+659;Aston Villa;Slowfood;359
+660;Lalo, Edouard (1823-1892);Andantino con moto;576
+661;Thomas Fersen;Mon iguanodon;163
+662;Indochine;Okinawa;486
+663;W. A. Mozart;Piano Sonata in F major K332 - Adagio;361
+664;Pink Floyd;Marooned;189
+665;Indochine;June;173
+666;The Blues Brothers;Green onions;546
+667;Patti Smith;Dead City (Live);577
+668;Obsidienne;Sanctus;312
+669;Queen;Play The Game;165
+670;R.E.M;Country Feedback;465
+671;The Blues Brothers;Gimme Some Lovin';405
+672;Patti Smith;Babelogue;554
+673;Simon & Garfunkel;Old Friends;192
+674;Mano Negra;Santa Maradona;481
+675;R.E.M;Driver 8;418
+676;Raphael;Ne partons pas fâchés;302
+677;Toto;Stop Loving You;448
+678;Mano Negra;King Of Bongo;234
+679;The Beatles;Lovely Rita;512
+680;The Blues Brothers;Think;413
+681;Trust;Marche ou crève;539
+682;Radiohead;Exit Music (For a Film);127
+683;Trust;Le matteur;244
+684;Bertrand Betsch;au cinéma;572
+685;Yann Tiersen;Pas si simple;592
+686;Bertrand Betsch;bang bang;372
+687;Mano Negra;Long Long Nite (Inédit);483
+688;W. A. Mozart;Concerto for 2 Pianos in E flat major, K365 - Allegro;416
+689;Indochine;Morphine;589
+690;Indochine;Persane thème;575
+691;Jean Leloup;Jean Leloup - Cookie;482
+692;Jacques Brel;Les marquises;373
+693;Aston Villa;Invincible;123
+694;Obsidienne;Ave maris stella;143
+695;Fréderic Chopin;Prélude No. 14  in E flat minor, op. 28;499
+696;Beethoven;Appassionata - Allegro ma non troppo;394
+697;Jethro Tull;Songs From The Wood;310
+698;U2;Party Girl;590
+699;Beethoven;Op. 27 - Sonata No. 14 - Moonlight - 1 Adagio sostenuto;551
+700;The Blues Brothers;The Old Landmark;306
+701;Obsidienne;Ma belle dame souveraine;447
+702;Cat Stevens;Wild World;514
+703;Obsidienne;Viderunt omnes;486
+704;Saint Etienne Daho;ACCIDENT (WEEK-END A ROME);581
+705;Iron Maiden;Hallowed Be Thy Name;275
+706;Blankass;Qui se souvient;178
+707;Thomas Fersen;Les Papillons;542
+708;ZZTop;Bad Girl;162
+709;Queen;I Want It All;528
+710;W. A. Mozart;Sérénade in D maj KV320, 4. Rondo- Allegro ma non troppo;216
+711;Sting;Fragile;356
+712;Dionysos;Longboard blues;258
+713;Queen;Save Me;281
+714;W. A. Mozart;Symphony No. 36 in C, K425, 'Linz' - IV. Presto;542
+715;Trust;Antisocial;523
+716;The Blues Brothers;Going back to Miami;230
+717;Blankass;Monseigneur;506
+718;R.E.M;Why Not Smile;288
+719;Angelo branduardi;Confessions d'un malandrin;315
+720;Thomas Fersen;Un parapluie pour deux;347
+721;Radiohead;Thinking About You;218
+722;Tri Yann;Prince Qu'En Mains Tenez;249
+723;Thomas Fersen;Louise;347
+724;Etienne Daho;Caribbean Sea;313
+725;The Pogues;London Girl;155
+726;Jean Leloup;Jean Leloup - Sara;446
+727;Queen;These Are The Days Of Our Lives;541
+728;Obsidienne;Ne l'oseray je dire, se j'ayme par amour;420
+729;Indochine;Punker;209
+730;Patti Smith;Boy Cried Wolf (Live);346
+731;Jethro Tull;Cheerio;203
+732;Indochine;A L'Est De Java;465
+733;Radiohead;The Tourist;577
+734;U2;'40';380
+735;Orff;The Court of Love - Amor volat undique;530
+736;ZZTop;Concrete And Steel;475
+737;Patti Smith;25th Floor (Live);331
+738;Noir Désir;À L'Arrière Des Taxis;184
+739;Beethoven;Op. 27 - Sonata No. 14 - Moonlight - 3 Presto agitato;496
+740;Obsidienne;In te domine speravi;240
+741;W. A. Mozart;Concerto for Flute, Harp and Orchestra in C, KV 229 - I. Allegro;199
+742;Guns N' Roses;Locomotive;269
+743;AC-DC;Shot of love;135
+744;Bertrand Betsch;j'aime bien (2);231
+745;W. A. Mozart;Symphony No. 35 in D, K385, 'Haffner' - II. Andante;588
+746;Queen;Fat Bottomed Girls;562
+747;Lalo, Edouard (1823-1892);Two Impromptus Op.4, Esperance - Andantino con moto;315
+748;Mano Negra;Indios De Barcelona;480
+749;Bertrand Betsch;mon ami;127
+750;Queen;Bicycle Race;499
+751;Obsidienne;Motet Viderunt omnes;591
+752;Les Cowboys Fringants;Si la vie vous intéresse;346
+753;R.E.M;Radio Song;159
+754;Midnight Oil;Bullroarer;323
+755;Ramon Pipin's Odeurs;Le concour Lépine;420
+756;Trust;Serre les Poings;450
+757;U2;Trip Through Your Wires;520
+758;Bertrand Betsch;ce ventre-là;433
+759;Guns N' Roses;Shotgun Blues;504
+760;Ramon Pipin's Odeurs;Tommy Lobo - intro;403
+761;Fréderic Chopin;Prélude No. 15  in D flat major, op. 28;237
+762;Queen;Killer Queen;446
+763;Blondie;Maria;242
+764;R.E.M;Near Wild Heaven;316
+765;Led Zeppelin;Celebration Day;563
+766;The Pogues;Dirty Old Town;464
+767;Cat Stevens;But I Might Die Tonight;552
+768;Yann Tiersen;Western;167
+769;Yann Tiersen;Le Matin;537
+770;Daniel Darc;Il y a des moments;456
+771;Lalo, Edouard (1823-1892);Insouciance - Allegretto;503
+772;ZZTop;2000 Blues;400
+773;Dionysos;Petit Colorado;371
+774;Bérurier Noir;Viêtnam Laos Cambodge;298
+775;Radiohead;Lurgee;175
+776;Ricchi e Poveri;Made in Italy;150
+777;Lalo, Edouard (1823-1892);Sonata Op.12 in D Major, Allegro moderato;516
+778;W. A. Mozart;Concerto for Flute and Orchestra No. 1 in G, KV 313 - I. Allegro Maestoso;324
+779;Jacques Brel;La ville s'endormait;422
+780;Toto;Stranger In Town;185
+781;Les Cowboys Fringants;Shish taouk;469
+782;Radiohead;Stop Whispering;479
+783;Thomas Fersen;Je n'ai pas la gale;359
+784;Blondie;Out In The Streets;156
+785;Angelo branduardi;Va où le vent te mène;327
+786;Les Cowboys Fringants;Le retour du roi Katshé - Awikatchikaën;351
+787;Indochine;Pink Water3;510
+788;Jean-Louis Aubert;Entends-moi;197
+789;Indochine;Ladyboy;274
+790;Les Cowboys Fringants;Lettre à Lévesque;397
+791;Bruce Springsteen;You Can Look (But You Better Not Touch);401
+792;Serge Gainsbourg;Requiem Pour Un Con;295
+793;Les Cowboys Fringants;Les étoiles filantes;332
+794;U2;Discothèque;403
+795;Fréderic Chopin;Impromptu  No. 1  in A flat major, op. 29;216
+796;Angelo branduardi;La loutre;269
+797;W. A. Mozart;Concerto for Piano in D minor, K466 - Romance;394
+798;Jean-Michel Jarre;L'Orchestre Sous La Pluie;429
+799;Les Cowboys Fringants;Ti-cul;141
+800;Ramon Pipin's Odeurs;Sex Bazooka;371
+801;Obsidienne;Le roy anglois (Polyphonies de B Janin);454
+802;Queen;Bohemian Rhapsody;401
+803;Raphael;Caravane;505
+804;Daniel Darc;Paris;187
+805;Jean-Louis Aubert;Le bateau sous la terre;276
+806;Dionysos;Anorak;405
+807;Fréderic Chopin;Prélude No. 21  in B flat major, op. 28;320
+808;Midnight Oil;The dead heart;549
+809;Etienne Daho;Saint-Lunaire, dimanche matin;199
+810;Dionysos;Longboard train;396
+811;Orff;The Court of Love - Dulcissime;571
+812;Fréderic Chopin;Prélude No. 24  in D minor, op. 28;581
+813;Guns N' Roses;Don't Cry (Alt. Lyrics);463
+814;Angelo branduardi;Madame;165
+815;Sting;Fields of Gold;324
+816;Indochine;Punishment Park;194
+817;Noir Désir;Comme Elle Vient;224
+818;Trust;Toutes Barricades;360
+819;Dmitri Chostakovitch;Jazz Suite No. 1 - II Polka;600
+820;The Blues Brothers;Do you love me (including 'Mother Popcorn (you got to have a mother for me');511
+821;Fréderic Chopin;Prélude No. 18  in F minor, op. 28;239
+822;Dionysos;Tokyo Montana;278
+823;Obsidienne;Salve Sancta parens;430
+824;Queen;Headlong;327
+825;The Blues Brothers;Guilty;455
+826;Pink Floyd;When The Tigers Broke Free;587
+827;Queen;One Vision;539
+828;Tri Yann;Complainte De Yuna Madalen;206
+829;Queen;Tie Your Mother Down;156
+830;Tri Yann;Cantic War Sujet An Anaon;165
+831;Aubert (Jean-Louis);Les petits riens;434
+832;Patti Smith;Pissing In A River;565
+833;R.E.M;Superman;535
+834;Indochine;Adora;434
+835;Fréderic Chopin;Impromptu  No. 3  in G flat major, op. 51;436
+836;Jean Leloup;Jean Leloup - Rich;558
+837;Ramon Pipin's Odeurs;Petit caca Noel;482
+838;Jethro Tull;Sweet Dream;468
+839;Tri Yann;With A Bing Tow Row Row;302
+840;R.E.M;Nightswimming;285
+841;Thomas Fersen;Que L'on Est Bête;144
+842;AC-DC;Are you ready;218
+843;Sting & The Police;Walking On The Moon;362
+844;Jacques Brel;Jaurès;258
+845;Jean-Michel Jarre;Rendez-Vous 2;529
+846;Tri Yann;La Marche En Sol;400
+847;R.E.M;Circus Envy;241
+848;Toto;Africa;229
+849;Iron Maiden;Aces High;386
+850;Yann Tiersen;L'arrivée sur l'ile;358
+851;Etienne Daho;Stay with me (feat. West and Byrd);526
+852;Midnight Oil;Beds are burning;251
+853;Lalo, Edouard (1823-1892);Pastorale Op.8 in G Minor, Andantino con moto;409
+854;Etienne Daho;Les voyages immobiles;405
+855;Dmitri Chostakovitch;Piano Concerto No. 1 in C minor, op. 35 - IV Allegro con brio;265
+856;Arcade Fire;My Heart Is An Apple;264
+857;R.E.M;Sad Professor;307
+858;Orff;In the Tavern - Olim lacus colueram;295
+859;Ramon Pipin's Odeurs;Keskilébien;230
+860;Led Zeppelin;That's The Way;171
+861;Tri Yann;Le Vieux Laudia;591
+862;U2;Gone;504
+863;Jethro Tull;Heavy Horses (Edited Version);590
+864;Fréderic Chopin;Impromptu  No. 4  in C sharp minor, op. 66, ''Fantaisie-Impromptu'';375
+865;AC-DC;Rock your heart out;596
+866;Lalo, Edouard (1823-1892);Idylle, Andantino con moto;246
+867;Obsidienne;Scaramella;516
+868;Jean-Michel Jarre;Oxygene 2;556
+869;Ramon Pipin's Odeurs;Lune de miel expérimentale;207
+870;Bérurier Noir;Jim-la-Jungle;276
+871;Les Cowboys Fringants;Plus rien;360
+872;Noir Désir;La Chaleur;434
+873;Simon & Garfunkel;Seven O'clock News-Silent Night;259
+874;Queen;Another One Bites The Dust;191
+875;Bérurier Noir;Nuit Apache;189
+876;Les Cowboys Fringants;Plus rien;486
+877;Lalo, Edouard (1823-1892);Berceuse;450
+878;Sting;Moon Over Bourbon Street;400
+879;Bérurier Noir;L'Empereur Tomato-Ketchup II;499
+880;U2;Daddy's Gonna Pay For Your Crashed Car;171
+881;Etienne Daho;Bleu comme toi;570
+882;W. A. Mozart;Symphony No.38 - 2 - Andante;266
+883;U2;If You Wear That Velvet Dress;497
+884;Beethoven;Appassionata - Allegro assai;508
+885;U2;Sunday Bloody Sunday;135
+886;Aston Villa;Dislok;281
+887;Etienne Daho;Affaire classée;582
+888;Thomas Fersen;Juillet;281
+889;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 23 EN LA MAJEUR K 488 - Allegro;261
+890;Tri Yann;Le Réel De Louis Marie;133
+891;Ramon Pipin's Odeurs;Que veux-tu ma 2 -;354
+892;Jean-Michel Jarre;Moon Machine;417
+893;Sting & The Police;Seven Days;533
+894;Queen;Crazy Little Thing Called Love;266
+895;Les Cowboys Fringants;La reine;375
+896;Yann Tiersen;Soir de fete;417
+897;The Pogues;Rainy Night In Soho;272
+898;R.E.M;Daysleeper;288
+899;Aubert (Jean-Louis);Milliers, millions, milliards;325
+900;Toto;Georgy Porgy;557
+901;Les Cowboys Fringants;Ces temps-ci;281
+902;The Blues Brothers;Theme From Rawhide;175
+903;Dmitri Chostakovitch;Jazz Suite No. 2 - VI Waltz 2;418
+904;Obsidienne;Ce jour de l'an voudray joye mener;247
+905;Orff;On the Green - Chramer, gip die varwe mir;451
+906;Yann Tiersen;La dispute;599
+907;Jean Leloup;Jean Leloup - Rock'n'roll pauvreté;400
+908;Thomas Fersen;Pommes, pommes, pommes;576
+909;Trust;Fatalité;464
+910;Aubert (Jean-Louis);Cette Vie;458
+911;Orff;On the Green - Round Dance;430
+912;W. A. Mozart;Sym No41 - KV 551 'Jupiter' in C major - II. Andante cantabile;201
+913;U2;Staring At The Sun;372
+914;Radiohead;No Surprises;176
+915;W. A. Mozart;Concerto for Flute and Orchestra No. 2 in C, KV 314 - II. Andante Ma Non Troppo;201
+916;Radiohead;I Can't;493
+917;Serge Gainsbourg;Les Sucettes;215
+918;Jean-Louis Aubert;Avec les mots;124
+919;The Blues Brothers;Everybody Needs Somebody To Love;584
+920;Sting;When We Dance;582
+921;Simon & Garfunkel;Kathy' Song (In Concert);195
+922;U2;Numb;212
+923;Patti Smith;Gloria;138
+924;Obsidienne;En Egypte m'en veuille aller;184
+925;Blondie;No Exit;487
+926;Indochine;Sweet Dreams;492
+927;Ricchi e Poveri;Come vorrei;243
+928;R.E.M;Try Not to Breathe;377
+929;W. A. Mozart;Symphony No.38 - 3 - Presto;407
+930;Yann Tiersen;La fenetre;126
+931;Simon & Garfunkel;The 59th Street Bridge Song (Feelin' Groovy) (Studio Version);124
+932;Queen;Under Pressure;406
+933;Daniel Darc;Le feu follet;441
+934;Les Cowboys Fringants;En berne;223
+935;Toto;99;544
+936;Obsidienne;Les femmes amoureuses de l'âne;507
+937;Obsidienne;Reveslons nous amoureux (Les belles langagières de F Villon);200
+938;Jacques Brel;Le bon dieu;538
+939;Tri Yann;Rond De Saint Vincent Revival;413
+940;The Pogues;The Parting Glass;352
+941;Jean Leloup;Jean Leloup - Smoky Man;159
+942;Bérurier Noir;Nuit Apache II;531
+943;Aston Villa;Interlude invincible;386
+944;Etienne Daho;Saudade;389
+945;Jacques Brel;Knokke le zout tango;428
+946;Bertrand Betsch;parce qu'il;351
+947;Iron Maiden;Rime Of The Ancient Mariner;533
+948;Led Zeppelin;Tangerine;599
+949;Thomas Fersen;Allons nous coucher;232
+950;Etienne Daho;Toi + moi;447
+951;Fréderic Chopin;Prélude No. 17  in A flat major, op. 28;158
+952;R.E.M;Crush With Eyeliner;393
+953;Indochine;Popstitute;506
+954;Cat Stevens;Into White;494
+955;Ricchi e Poveri;Il meglio di noi;312
+956;Jean-Louis Aubert;Moments;312
+957;Guns N' Roses;Civil War;303
+958;Dionysos;Don Diego 2000;278
+959;Fréderic Chopin;Impromptu  No. 2  in F sharp major, op. 36;505
+960;Guns N' Roses;You Could Be Mine;353
+961;Blankass;Traverser les mers;435
+962;Jean Leloup;Bertha;323
+963;Obsidienne;Belle très douce mère;147
+964;R.E.M;Strange Currencies;527
+965;R.E.M;Sweetness Follows;349
+966;Orff;The Court of Love - In trutina;425
+967;R.E.M;Star Me Kitten;184
+968;W. A. Mozart;2 Marches KV 335, Marcia No. 2;233
+969;Indochine;Gang bang;198
+970;Obsidienne;Las, las, las;293
+971;The Pogues;Body Of An American;155
+972;Radiohead;Climbing up the Walls;214
+973;ZZTop;I Got The Six;271
+974;Aston Villa;Voiture française;502
+975;Trust;Préfabriqués;351
+976;Bruce Springsteen;Jackson Cage;508
+977;Les Cowboys Fringants;8 secondes;362
+978;U2;Sunday Bloody Sunday;354
+979;Beethoven;Sonate au clair de lune - Adagio sostenuto;499
+980;Beethoven;Op. 13 - Sonata No. 8 - Pathetique - 3 Rondo - Allegro;227
+981;Daniel Darc;La ville;475
+982;Yann Tiersen;Priere n°3;144
+983;Queen;Who Wants To Live Forever;129
+984;Jean Leloup;Jean Leloup - Le Castel Impossible;526
+985;Ramon Pipin's Odeurs;Lobotomie;566
+986;Pink Floyd;Sheep;255
+987;Indochine;Marilyn;259
+988;Les Cowboys Fringants;La reine;529
+989;Raphael;C'est bon aujourd'hui;554
+990;Serge Gainsbourg;Manon;600
+991;Obsidienne;Nous prêtres, nous chanteurs;586
+992;Angelo branduardi;A la foire de l'est;517
+993;Trust;Ton dernier acte;235
+994;Obsidienne;Dieu gard celle de deshonneur;131
+995;Serge Gainsbourg;L'Anamour;442
+996;The Beatles;With A Little Help From My Friends;578
+997;Yann Tiersen;Le vieux en veut encore;163
+998;Thomas Fersen;Hyacinthe-1;256
+999;Indochine;Le grand secret;247
+1000;Sting;Mad About You;121
+1001;Aston Villa;Crève-moi;302
+1002;Yann Tiersen;Le Jour De L'ouverture;435
+1003;R.E.M;Maps And Legends (Live);456
+1004;Bertrand Betsch;j'aime bien (1);535
+1005;Sting & The Police;Message In A Bottle;513
+1006;Etienne Daho;Week-end à Rome;511
+1007;Yann Tiersen;Monochrome;252
+1008;Simon & Garfunkel;Homeward Bound (Studio Version);309
+1009;Etienne Daho;La berlue;439
+1010;U2;Babyface;122
+1011;Tri Yann;Le Soleil Est Noir;155
+1012;Tri Yann;Kan Peoc'h;165
+1013;Tri Yann;Cad E Sin Don Te Sin;284
+1014;Jethro Tull;Bungle In The Jungle;411
+1015;Indochine;3 Nuits Par Semaine;471
+1016;Indochine;Mao Boy!;426
+1017;Beethoven;Op. 13 - Sonata No. 8 - Pathetique - 1 Grave - Allegro molto e con brio;173
+1018;Dmitri Chostakovitch;Jazz Suite No. 1 - III Foxtrot;534
+1019;Obsidienne;Orientis partibus;378
+1020;R.E.M;Texarkana;459
+1021;Queen;Hammer To Fall;290
+1022;Patti Smith;When Doves Cry;532
+1023;Queen;One Year Of Love;544
+1024;Tri Yann;An Distro Euz A Vro Zaoz;178
+1025;Simon & Garfunkel;For Emily, Whenever I May Find Her (In Concert);434
+1026;Radiohead;Vegetable;335
+1027;Bérurier Noir;Ibrahim;316
+1028;W. A. Mozart;Sym No40 - KV 550 in G minor - IV. Allegro Assai;344
+1029;Bruce Springsteen;I Wanna Marry You;336
+1030;U2;Surrender;488
+1031;Indochine;3ème Sexe;318
+1032;Bruce Springsteen;Fade Away;144
+1033;U2;With Or Without You;574
+1034;Etienne Daho;Jack, tu n'est pas un ange;402
+1035;Radiohead;Paranoid Android;198
+1036;W. A. Mozart;Symphony No.39 - 3 - Menuetto;498
+1037;Jean-Michel Jarre;Zoolookologie;360
+1038;Les Cowboys Fringants;Symphonie pour Caza;582
+1039;Thomas Fersen;L'escalier;155
+1040;Ramon Pipin's Odeurs;Astrid démo;408
+1041;Tri Yann;Noël Guérandais;482
+1042;Saint Etienne Daho;LE BAISER FRANCAIS;553
+1043;Bérurier Noir;Et Hop + Macadam Circus II;407
+1044;Queen;The Miracle;329
+1045;Sting;If You Love Somebody Set Them Free;438
+1046;Noir Désir;Fin De Siècle;141
+1047;Ramon Pipin's Odeurs;Vacances de rêves;570
+1048;Pink Floyd;Time;315
+1049;Indochine;A L'assaut;185
+1050;Tri Yann;La Jument De Michao;382
+1051;U2;The First Time;251
+1052;Etienne Daho;Des Ir;274
+1053;Noir Désir;Lazy;499
+1054;Mano Negra;Sueño De Solentiname;459
+1055;Thomas Fersen;Le bal des oiseaux;300
+1056;Pink Floyd;The Fletcher Memorial Home;150
+1057;Fréderic Chopin;Prélude No. 19  in E flat major, op. 28;442
+1058;Jean-Michel Jarre;Calypso 3 (Fin De Siecle);422
+1059;Beethoven;Pathétique - Rondo allegro;165
+1060;ZZTop;My Head's In Mississippi;446
+1061;Obsidienne;Hellas il est pic de ma vie;448
+1062;W. A. Mozart;Sérénade in D maj KV320, 3. Concertante- Andante grazioso;477
+1063;Tri Yann;Cheveux D'Or;416
+1064;Blondie;Boom Boom In The Zoom Zoom Room;575
+1065;Les Cowboys Fringants;Banlieue;395
+1066;U2;With A Shout;589
+1067;Indochine;La Sécheresse Du Mecong;182
+1068;Pink Floyd;Echoes;570
+1069;Indochine;La nuit des fées;424
+1070;Angelo branduardi;Le cerisier;145
+1071;Indochine;Tant de poussière;335
+1072;Yann Tiersen;La Plage;383
+1073;Thomas Fersen;Pour toi mon amour;441
+1074;R.E.M;Wendell Gee;316
+1075;Raphael;Les petits bateaux;179
+1076;Indochine;Sweet Dreams;220
+1077;Ricchi e Poveri;Se mi innamoro;387
+1078;W. A. Mozart;Concerto for 2 Pianos in E flat major, K365 - Andante;247
+1079;Serge Gainsbourg;Je t'Aime... Moi Non Plus (ft. Jane Birkin);418
+1080;Indochine;Shanghai;261
+1081;Toto;I Won't Hold You Back;589
+1082;U2;One Tree Hill;400
+1083;Ramon Pipin's Odeurs;Samba Nipanti;457
+1084;Cat Stevens;Sad Lisa;195
+1085;Yann Tiersen;L'effondrement;464
+1086;Sting;They Dance Alone (Cueca Solo);560
+1087;W. A. Mozart;Piano Sonata in C minor K457 - Adagio;270
+1088;Mano Negra;Out Of Time Man;369
+1089;Orff;In the Tavern - Estuans interius;597
+1090;Blankass;La couleur des blés;381
+1091;Etienne Daho;Signé Kiko;154
+1092;The Blues Brothers;Shake Your Tailfeather;287
+1093;Ramon Pipin's Odeurs;Joe le surfeur;188
+1094;Beethoven;Op. 13 - Sonata No. 8 - Pathetique - 2 Adagio cantabile;402
+1095;Fréderic Chopin;Prélude No. 4  in E minor, op. 28;592
+1096;Jean Leloup;La Vie Est Laide;433
+1097;Radiohead;Anyone Can Play Guitar;414
+1098;Aubert (Jean-Louis);L'essentiel;329
+1099;Thomas Fersen;A dahouët;177
+1100;Indochine;Kao-Bang;146
+1101;Yann Tiersen;Rue des cascades;521
+1102;Arcade Fire;Vampire - Forest Fire;229
+1103;Dionysos;Rodéo;261
+1104;Mano Negra;On Telefon (Inédit);433
+1105;R.E.M;Good Advices;316
+1106;Obsidienne;Pange Melos;331
+1107;Pink Floyd;Us And Them;272
+1108;Trust;Problem child - live wire (live);470
+1109;Midnight Oil;Arctic world;253
+1110;The Pogues;The Sickbed Of Cuchulainn;503
+1111;Queen;Now I'm Here;446
+1112;ZZTop;Sharp Dressed Man;125
+1113;Obsidienne;O legi et memini Lux Hodie;329
+1114;Mano Negra;Noche De Acción;285
+1115;Indochine;Savoure Le Rouge;251
+1116;Jean Leloup;Jean Leloup - La Chambre;499
+1117;Pink Floyd;Arnold Layne;166
+1118;Iron Maiden;Flight Of Icarus;326
+1119;Bertrand Betsch;les gens qui s'aiment;235
+1120;W. A. Mozart;Sym No40 - KV 550 in G minor - III. Menuetto & Trio;130
+1121;Serge Gainsbourg;Chez Les Yé Yé;540
+1122;Yann Tiersen;La crise;226
+1123;Bérurier Noir;Descendons dans la Rue;590
+1124;Iron Maiden;Powerslave;179
+1125;Toto;Rosanna;169
+1126;Led Zeppelin;Gallows Pole;374
+1127;R.E.M;Kohoutek;127
+1128;Daniel Darc;Cherchez le garcon;453
+1129;W. A. Mozart;Concerto for Flute, Harp and Orchestra in C, KV 229 - II. Andantino;362
+1130;Obsidienne;Maria Virgo virginum;321
+1131;Obsidienne;On doit la mère Dieu honorer;190
+1132;Jacques Brel;Les remparts de varsovie;394
+1133;Mano Negra;King Kong Five;251
+1134;W. A. Mozart;Adagio in B minor K450 - .;459
+1135;Obsidienne;Letabundus - Hui enfantez;421
+1136;Jean Leloup;Jean Leloup - Pigeon;365
+1137;Obsidienne;Deus misertus;511
+1138;Sting & The Police;If I Ever Lose My Faith In You;434
+1139;Ramon Pipin's Odeurs;Les p'tis garçons et les p'tits filles;144
+1140;Bérurier Noir;Vie de Singe;539
+1141;R.E.M;Crazy;555
+1142;Tri Yann;Tri Martelod;410
+1143;Indochine;Justine;553
+1144;Daniel Darc;Nijinski;476
+1145;Serge Gainsbourg;Qui Est ''In'' Qui Est ''Out'';343
+1146;Queen;We Are The Champions;204
+1147;U2;I Threw a Brick Through A Window;152
+1148;Bérurier Noir;L'Empereur Tomato-Ketchup;588
+1149;R.E.M;Suspicion;373
+1150;Queen;You're My Best Friend;549
+1151;Obsidienne;L'amour de moi si est enclose;225
+1152;Thomas Fersen;Libertad;173
+1153;Ramon Pipin's Odeurs;Mise bas de Tommy Lobo;516
+1154;Ramon Pipin's Odeurs;Oh les beaux dimanches;454
+1155;Dionysos;Don Diego 2000;420
+1156;U2;Please;556
+1157;Queen;A Kind Of Magic;598
+1158;Pink Floyd;Wish You Were Here;276
+1159;Yann Tiersen;Le fromveur;200
+1160;Raphael;Chanson pour Patrick Dewaere;142
+1161;Midnight Oil;Dreamworld;281
+1162;Aubert (Jean-Louis);Donne-moi une raison;303
+1163;U2;Last Night On Earth;171
+1164;Indochine;Talulla;458
+1165;Simon & Garfunkel;Song For The Asking;325
+1166;Queen;The Show Must Go On;582
+1167;Serge Gainsbourg;Couleur Cafe;438
+1168;Ramon Pipin's Odeurs;Dans les supermarchés;253
+1169;R.E.M;Low;170
+1170;Indochine;J'Ai Demande A La Lune;156
+1171;Blondie;Divine;437
+1172;Fréderic Chopin;Prélude No. 23  in F major, op. 28;523
+1173;Angelo branduardi;La vie orange;154
+1174;U2;Running To Stand Still;438
+1175;Jethro Tull;Life Is A Long Song;215
+1176;Jean-Michel Jarre;Orient Express;482
+1177;Patti Smith;Wander I Go (Track);353
+1178;Ramon Pipin's Odeurs;Les p'tits garçons et les p'tites filles;398
+1179;Ricchi e Poveri;La stella che vuoi;256
+1180;Yann Tiersen;Les Enfants;170
+1181;W. A. Mozart;Piano Sonata in C minor K457 - Molto Allegro;560
+1182;Orff;The Court of Love - Si puer cum puelulla;391
+1183;Lalo, Edouard (1823-1892);Andantino com moto;241
+1184;U2;Where The Streets Have No Name;436
+1185;The Pogues;Sally MacLennane;310
+1186;Simon & Garfunkel;Scarborough Fair-Canticle;238
+1187;ZZTop;Burger Man;316
+1188;Lalo, Edouard (1823-1892);Scherzo Alla Pulcinella in E flat Major, Allegetto;370
+1189;The Blues Brothers;Minnie The Moocher;276
+1190;Serge Gainsbourg;Ford Mustang;459
+1191;Fréderic Chopin;Prélude No. 16  in B flat minor, op. 28;148
+1192;Lalo, Edouard (1823-1892);Final, Allegro monderato;411
+1193;Bruce Springsteen;I'm A Rocker;295
+1194;W. A. Mozart;Symphony No.39 - 1 - Adagio - Allegro;390
+1195;Tri Yann;Kan An Kan;392
+1196;W. A. Mozart;Concerto for Flute and Orchestra No. 1 in G, KV 313- III. Rondo - Minuetto;364
+1197;Dmitri Chostakovitch;Jazz Suite No. 2 - IV Waltz 1;192
+1198;W. A. Mozart;Symphony No. 36 in C, K425, 'Linz'- I. Adagio - Allegro spiritoso;512
+1199;Aston Villa;Le chien;562
+1200;ZZTop;TV Dinners;515
+1201;Sting & The Police;Can't Stand Losing You;599
+1202;Etienne Daho;Le plaisir de perdre (feat. Jérôme Pigeon);391
+1203;Raphael;La route de nuit;551
+1204;Simon & Garfunkel;Bridge Over Troubled Water;202
+1205;Queen;Good Old Fashioned Lover Boy;496
+1206;Les Cowboys Fringants;Le gars d'la compagnie;125
+1207;Etienne Daho;Promesses;549
+1208;Angelo branduardi;Il violinista di dooney;422
+1209;Thomas Fersen;Les Tours D'horloge;523
+1210;Yann Tiersen;L'homme aux bras ballants;530
+1211;W. A. Mozart;Symphony No. 35 in D, K385, 'Haffner' - III. Menuetto;586
+1212;Jean Leloup;Jean Leloup - Dr. Jekyll And Mr. Hyde;325
+1213;Ramon Pipin's Odeurs;Youpi la France;586
+1214;Aubert (Jean-Louis);L'amour;286
+1215;Serge Gainsbourg;Elisa;432
+1216;Indochine;Alertez Managua;226
+1217;Noir Désir;Le Fleuve;258
+1218;Blondie;Screaming Skin;467
+1219;ZZTop;Penthouse Eyes;565
+1220;Radiohead;Airbag;596
+1221;Led Zeppelin;Bron-Y-Aur Stomp;163
+1222;Tri Yann;La Ballade Du Cheval Mallet;385
+1223;The Blues Brothers;Peter Gunn Theme;572
+1224;Lalo, Edouard (1823-1892);Fantaisie Originale Op.1, Allegretto;171
+1225;Beethoven;Pathétique - Grave;448
+1226;W. A. Mozart;Sym No40 - KV 550 in G minor - I. Molto Allegro;545
+1227;Daniel Darc;Pars sans te retourner;373
+1228;Les Cowboys Fringants;Camping Ste-Germaine;553
+1229;Indochine;Black Page;185
+1230;Pink Floyd;Comfortably Numb;276
+1231;U2;New Year's Day;309
+1232;Bérurier Noir;La Marche Funèbre de la Jeunesse Suicidaire;481
+1233;Yann Tiersen;La noyee;347
+1234;Mano Negra;Mano Negra;142
+1235;Sting & The Police;Englishman In New York;190
+1236;Indochine;La Machine A Rattraper Le Temps;375
+1237;W. A. Mozart;Divertimento in D maj KV136, 2. Andante;495
+1238;Obsidienne;De ma dame;351
+1239;Serge Gainsbourg;Pauvre Lola;227
+1240;Obsidienne;Le pasté de veaus;419
+1241;Pink Floyd;One Of These Days;246
+1242;Bruce Springsteen;Sherry Darling;370
+1243;R.E.M;What If We Give It Away-;573
+1244;Yann Tiersen;Plus D'hiver;324
+1245;Ricchi e Poveri;Ciao Ciao;563
+1246;Indochine;Alice & June;126
+1247;W. A. Mozart;Piano Sonata in B flat major K333 - Andante cantabile;362
+1248;Dmitri Chostakovitch;Jazz Suite No. 2 - II Lyric Waltz;342
+1249;Sting;Love is the Seventh Wave;360
+1250;Blankass;Danse avec les vieux;185
+1251;R.E.M;I Took Your Name;447
+1252;Bérurier Noir;Comme un Bouddha;513
+1253;Thomas Fersen;Pickpocket;227
+1254;U2;Rejoice;589
+1255;Indochine;Miss Paramount;575
+1256;Patti Smith;Redondo Beach (Demo);120
+1257;Ramon Pipin's Odeurs;Volte-face et sexe à pile;377
+1258;Jethro Tull;Too Old To Rock 'N' Roll- Too Young To Die (Edited Version);148
+1259;Indochine;Kao Bang;298
+1260;Aston Villa;Interlude Respire;252
+1261;Etienne Daho;Rue des petits hôtels;581
+1262;Raphael;La ballade du pauvre;370
+1263;U2;Stranger In A Strange Land;297
+1264;Mano Negra;Señor Matanza;434
+1265;Mano Negra;Mala Vida;375
+1266;U2;Is That All-;438
+1267;Tri Yann;Les Pailles D'Or Brisées;563
+1268;Iron Maiden;Run To The Hills;546
+1269;R.E.M;Cuyahoga;452
+1270;Yann Tiersen;La piece vide;257
+1271;Daniel Darc;Toutes les filles sont parties;382
+1272;Bruce Springsteen;The Price You Pay;579
+1273;Jethro Tull;Roots To Branches;474
+1274;Fréderic Chopin;Prélude No. 9  in E major, op. 28;456
+1275;Blondie;Forgive And Forget;507
+1276;Indochine;Les années Bazar;309
+1277;Jethro Tull;Aqualung;493
+1278;Simon & Garfunkel;Wednesday Morning, 3.Am;388
+1279;Daniel Darc;Comment te dire adieu;410
+1280;Guns N' Roses;Breakdown;476
+1281;Obsidienne;Puer natus est;554
+1282;Noir Désir;What I Need;309
+1283;Sting;All This Time;193
+1284;Ricchi e Poveri;Mamma Maria;260
+1285;Thomas Fersen;Le tournis;478
+1286;The Pogues;A Pair Of Brown Eyes;570
+1287;Jean Leloup;Jean Leloup - Cookie (Remix);583
+1288;Queen;Somebody To Love;291
+1289;Thomas Fersen;Bella ciao;365
+1290;Angelo branduardi;La série des nombres;229
+1291;Etienne Daho;Interlude à la désirade;434
+1292;Fréderic Chopin;Prélude No. 6  in B minor, op. 28;220
+1293;Raphael;Et dans 150 ans;284
+1294;Yann Tiersen;Mary;504
+1295;R.E.M;Parakeet;413
+1296;Indochine;La colline des roses;382
+1297;Jean-Michel Jarre;Rendez-Vous 4;245
+1298;Orff;Spring - Veris leta facies;168
+1299;AC-DC;The razors edge;255
+1300;Les Cowboys Fringants;Camping Ste-Germaine;541
+1301;Ramon Pipin's Odeurs;Banque de sperme;543
+1302;Jean Leloup;Jean Leloup - Isabelle;145
+1303;W. A. Mozart;CONCERTO POUR PIANO ET ORCHESTRE N° 6 EN RE MAJEUR K 537 -DU COURONNEMENT- - Larghetto;149
+1304;AC-DC;Lets make it;207
+1305;Fréderic Chopin;Prélude No. 12  in G sharp minor, op. 28;172
+1306;Tri Yann;La Petite Perrine, La Marchande De Coccinelles;164
+1307;The Blues Brothers;She Caught The Katy;563
+1308;Dionysos;Intro- theme from -western sous la neige-;373
+1309;Noir Désir;À La Longue;178
+1310;U2;Gloria;580
+1311;Thomas Fersen;Ne me touche pas;522
+1312;Pink Floyd;Astronomy Domine;463
+1313;Simon & Garfunkel;The Boxer;520
+1314;Thomas Fersen;Mon macabre;552
+1315;AC-DC;Thunderstruck;311
+1316;Ricchi e Poveri;Se mi ami;402
+1317;Patti Smith;Wing (Live);195
+1318;Lalo, Edouard (1823-1892);Vivace;207
+1319;Obsidienne;Alleluia Ortus est;505
+1320;Radiohead;Fitter Happier;284
+1321;Etienne Daho;Sortir ce soir;375
+1322;Fréderic Chopin;Prélude No. 26 in A flat major, op. posth.;588
+1323;Patti Smith;Paths That Cross;300
+1324;Tri Yann;Kalonkadour;272
+1325;Indochine;Un homme dans la bouche;125
+1326;Bruce Springsteen;Independence Day;302
+1327;Jacques Brel;Les F...;573
+1328;Yann Tiersen;Les jours heureux;355
+1329;Daniel Darc;18-12;593
+1330;Fréderic Chopin;Prélude No. 25 in C sharp minor, op.45;436
+1331;Patti Smith;Higher Learning (Track);195
+1332;Pink Floyd;Jugband Blues;394
+1333;Saint Etienne Daho;RESERECTION;267
+1334;ZZTop;Legs;338
+1335;Thomas Fersen;Bucéphale;237
+1336;Fréderic Chopin;Prélude No. 10  in C sharp minor, op. 28;530
+1337;Lalo, Edouard (1823-1892);Allegro Maestoso Op.2 in C Minor -a son ami J. Schulhoff;422
+1338;U2;Red Light;155
+1339;Les Cowboys Fringants;Épilogue;176
+1340;Guns N' Roses;Yesterdays;125
+1341;W. A. Mozart;2 Marches KV 335, Marcia No. 1;483
+1342;Yann Tiersen;La muette;545
+1343;Iron Maiden;Iron Maiden;246
+1344;R.E.M;Begin The Begin;468
+1345;Fréderic Chopin;Prélude No. 7  in A major, op. 28;333
+1346;Bérurier Noir;Et Hop + Macadam Circus;214
+1347;Tri Yann;Si Mort A Mors;441
+1348;Mano Negra;El Sur;272
+1349;Radiohead;Creep;310
+1350;R.E.M;Feeling Gravitys Pull;214
+1351;R.E.M;Hyena;428
+1352;Les Cowboys Fringants;Intro;154
+1353;Indochine;Les plus mauvaises nuits;197
+1354;Jacques Brel;Orly;187
+1355;Yann Tiersen;La chute ;546
+1356;Ramon Pipin's Odeurs;Le vilain petit zoziau;164
+1357;Radiohead;Subterranean Homesick Alien;123
+1358;ZZTop;Lovething;205
+1359;W. A. Mozart;Concerto for 3 Pianos in F - major, K. 242- Adagio;529
+1360;R.E.M;What's The Frequency, Kenneth-;356
+1361;Tri Yann;Pelot D'Hennebont;402
+1362;Indochine;Tes Yeux Noirs;155
+1363;W. A. Mozart;Sym No41 - KV 551 'Jupiter' in C major - IV. Allegro Molto;334
+1364;U2;Tomorrow;427
+1365;Yann Tiersen;Loin Des Villes;585
+1366;W. A. Mozart;Sérénade in D maj KV320, 5. Andantino;285
+1367;Patti Smith;Rock N Roll Nigger;298
+1368;Jean-Louis Aubert;Toi que l'on n'homme pas;514
+1369;Ramon Pipin's Odeurs;On est une bande de copains;151
+1370;U2;Fire;349
+1371;Obsidienne;Orientis partibus;600
+1372;Indochine;Le Péril Jaune [Fermeture];303
+1373;U2;I Still Haven't Found What I'm Looking For;211
+1374;Led Zeppelin;Immigrant Song;179
+1375;Etienne Daho;Musc et ambre;257
+1376;Queen;Don't Stop Me Now;272
+1377;R.E.M;Burning Hell;268
+1378;Obsidienne;Ecce tempus gaudii;137
+1379;The Pogues;Navigator;308
+1380;Radiohead;You;533
+1381;AC-DC;Fire your guns;391
+1382;Serge Gainsbourg;Elaeudanla Teïteïa;475
+1383;Simon & Garfunkel;Cecilia;581
+1384;Mano Negra;Sidi H' Bibi;214
+1385;Mano Negra;Pas Assez De Toi;180
+1386;Jean Leloup;Jean Leloup - Think About You;373
+1387;Yann Tiersen;Toujours là;152
+1388;Ricchi e Poveri;Mi innamoro di te;431
+1389;Orff;Fortune, Empress of the World - O Fortuna;293
+1390;Jean-Michel Jarre;Computer Week-End;553
+1391;Indochine;Satellite;171
+1392;Ricchi e Poveri;Che sera;505
+1393;Jean-Louis Aubert;Solitude;299
+1394;Obsidienne;Vive le roy;262
+1395;Dionysos;I love you;494
+1396;Beethoven;Op. 57 - Sonata No. 23 - Appassionata - 2 Andante con moto;434
+1397;Toto;Pamela;268
+1398;Ramon Pipin's Odeurs;Le gros snob;170
+1399;Obsidienne;Hors est Bayard;166
+1400;Sting;We'll be Together;182
+1401;Radiohead;How Do You-;136
+1402;Indochine;Belle et Sébastiane;171
+1403;Jean Leloup;Jean Leloup - Le Monde Est A Pleurer;274
+1404;Obsidienne;Ite missa est;335
+1405;R.E.M;Driver 8 (Live);495
+1406;Toto;Hold The Line;256
+1407;Dionysos;Mc Enroe's poetry;152
+1408;R.E.M;Endgame;503
+1409;Midnight Oil;Warakurna;124
+1410;W. A. Mozart;Sym No41 - KV 551 'Jupiter' in C major - III. Menuetto & Trio;512
+1411;Jean-Louis Aubert;Si seulement;524
+1412;Thomas Fersen;Au café de la paix;389
+1413;Toto;I'll Be Over You;480
+1414;Fréderic Chopin;Prélude No. 22  in G minor, op. 28;310
+1415;Jean Leloup;Faire Des Enfants;526
+1416;U2;Exit;357
+1417;Obsidienne;Jamais amoureux bien n'aira;220
+1418;W. A. Mozart;Divertimento in D maj KV136, 3. Presto;474

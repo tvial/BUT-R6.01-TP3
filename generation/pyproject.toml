@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "vectors"
+version = "0.1.0"
+description = ""
+authors = ["thomas.vial <tvial@octo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+pyflac = "^3.0.0"
+tensorflow = "2.16.1"
+tensorflow-io = "^0.37.1"
+tensorflow-hub = "^0.16.1"
+scikit-learn = "^1.6.1"
+librosa = "^0.10.2.post1"
+pydantic = "^2.10.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
